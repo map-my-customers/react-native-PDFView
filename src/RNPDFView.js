@@ -1,5 +1,6 @@
-import { requireNativeComponent, ViewPropTypes } from 'react-native';
+import { requireNativeComponent } from 'react-native';
 import PropTypes from 'prop-types';
+import type { ViewProps } from 'react-native/Libraries/Components/View/ViewPropTypes';
 
 
 const componentInterface = {
